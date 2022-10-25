@@ -78,19 +78,56 @@
   <a href="https://git-scm.com">
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
-  <a href="https://www.jetbrains.com">
-    <img align="center" src="https://shields.io/static/v1?label=&message=JetBrains&color=blueviolet&style=for-the-badge&logo=JetBrains"/>
-  </a>
   <a href="https://www.postgresql.org">
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
   <a href="https://unity.com">
     <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
+</p>
+
+
+<hr>
+<h3> :desktop_computer: IDE : </h3>
+<p align="center">
+  <a href="https://developer.android.com">
+    <img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  </a>
+  <a href="https://www.jetbrains.com/clion/">
+    <img align="center" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  </a>
+  <a href="https://www.jetbrains.com/fr-fr/phpstorm/">
+    <img align="center" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img align="center" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  </a>
   <a href="https://code.visualstudio.com">
-    <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com">
+    <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   </a>
 </p>
+
+
+
+<hr>
+<h3> :cloud: Cloud : </h3>
+<p align="center">
+  <a href="https://aws.amazon.com">
+    <img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com">
+    <img align="center" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  </a>
+  <a href="https://www.heroku.com/">
+    <img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
+ </p>
 
 
 <hr>
