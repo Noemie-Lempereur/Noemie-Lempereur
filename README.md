@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h3> :computer: Mes langages de programmation : </h3>
+<h3> :computer: Langages de programmation : </h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -48,6 +48,18 @@
   </a>
 </p>
 
+<hr>
+<h3> :computer: Langages informatiques : </h3>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/CSS">
+    <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML">
+    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+</p>
+  
 
 <hr>
 <h3> :books: Frameworks : </h3>
