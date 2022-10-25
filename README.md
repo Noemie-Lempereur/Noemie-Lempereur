@@ -50,11 +50,31 @@
 
 
 <hr>
-<h3> :wrench: Outils : </h3>
+<h3> :books: Frameworks : </h3>
 <p align="center">
   <a href="https://getbootstrap.com">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </a>
+  <a href="https://nodejs.org">
+    <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://www.qt.io/">
+    <img align="center" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+  </a>
+  <a href="https://fr.reactjs.org/">
+    <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+  
+  
+ </p>
+
+
+<hr>
+<h3> :wrench: Outils : </h3>
+<p align="center">
   <a href="https://git-scm.com">
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
