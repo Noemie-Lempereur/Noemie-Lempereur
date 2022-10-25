@@ -70,9 +70,6 @@
   </a>
 </p>
 
- [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
-
 ####
 <hr>
 ### :minidisc: Système d'exploitation
@@ -90,12 +87,6 @@
 
 
 <!--
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Noemie-Lempereur)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 **Noemie-Lempereur/Noemie-Lempereur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
