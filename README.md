@@ -1,5 +1,6 @@
 # Noémie LEMPEREUR
 ####
+<hr>
 ### :mortar_board: Mes études : 
 - Etudiante en école d'ingénieur à l'ISEN (Institut supérieur de l'électronique et du numérique)  
   Domaine Professionnel : Génie logiciel  
@@ -10,6 +11,7 @@
   Chicoutimi - Québec  
   Aout 2022 - Juillet 2023  
 ####
+<hr>
 ### :briefcase: Mon Github : 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,6 +25,7 @@
 </p>
 
 ####
+<hr>
 ### :computer: Mes langages de programmation
 
 <p align="center">
@@ -47,13 +50,22 @@
 </p>
 
 ####
-### :wrench: Outils
+<hr>
+### :wrench: Outils  
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![jetbrains](https://shields.io/static/v1?label=&message=JetBrains&color=yellow&style=for-the-badge&logo=JetBrains)](https://www.jetbrains.com/) [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ####
+<hr>
 ### :minidisc: Système d'exploitations
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.com) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
+<p align="center">
+  <a href="https://debian.com">
+    <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  </a>
+  <a href="https://windows.com">
+    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  </a>
+ </p>
 
 
 
