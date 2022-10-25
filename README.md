@@ -1,18 +1,18 @@
 <h1>Noémie LEMPEREUR</h1>
 
 <hr>
-<h3> :mortar_board: Mes études : </h3>
-- Etudiante en école d'ingénieur à l'ISEN (Institut supérieur de l'électronique et du numérique)<br>  
-&nbsp&nbsp Domaine Professionnel : Génie logiciel  <br>
+<h3> :mortar_board: My studies : </h3>
+- Student in engineering school at ISEN (Institut supérieur de l'électronique et du numérique)<br>  
+&nbsp&nbsp Professional Field: Software Engineering<br>
 &nbsp&nbsp Nantes - France  <br>
-&nbsp&nbsp Septembre 2019 - Septembre 2024 <br>
-- Etudiante en double diplome Maitrise en informatique à l'UQAC (Université du Québec à Chicoutimi)   <br>
-&nbsp&nbsp Spécialité : Jeux Vidéos   <br>
+&nbsp&nbsp September 2019 - September 2024 <br>
+- Double degree student in Computer Science at UQAC (Université du Québec à Chicoutimi)   <br>
+&nbsp&nbsp Speciality: Video Games   <br>
 &nbsp&nbsp Chicoutimi - Québec - Canada  <br>
-&nbsp&nbsp Aout 2022 - Juillet 2023  
+&nbsp&nbsp August 2022 - July 2023
 
 <hr>
-<h3> :briefcase: Mon Github : </h3>
+<h3> :briefcase: Github : </h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true"/>
@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h3> :computer: Langages de programmation : </h3>
+<h3> :computer: Programming languages : </h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -52,7 +52,7 @@
 </p>
 
 <hr>
-<h3> :computer: Langages informatiques : </h3>
+<h3> :computer: IT languages : </h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/CSS">
@@ -91,7 +91,7 @@
 
 
 <hr>
-<h3> :wrench: Outils : </h3>
+<h3> :wrench: Tools : </h3>
 <p align="center">
   <a href="https://git-scm.com">
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
