@@ -8,7 +8,7 @@
 &nbsp&nbsp Septembre 2019 - Septembre 2024 <br>
 - Etudiante en double diplome Maitrise en informatique à l'UQAC (Université du Québec à Chicoutimi)   <br>
 &nbsp&nbsp Spécialité : Jeux Vidéos   <br>
-&nbsp&nbsp Chicoutimi - Québec   <br>
+&nbsp&nbsp Chicoutimi - Québec - Canada  <br>
 &nbsp&nbsp Aout 2022 - Juillet 2023  
 
 <hr>
