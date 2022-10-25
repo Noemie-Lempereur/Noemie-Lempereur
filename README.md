@@ -1,7 +1,7 @@
-# Noémie LEMPEREUR
-####
+<h1>Noémie LEMPEREUR</h1>
+
 <hr>
-### :mortar_board: Mes études : 
+<h3> :mortar_board: Mes études : </h3>
 - Etudiante en école d'ingénieur à l'ISEN (Institut supérieur de l'électronique et du numérique)  
   Domaine Professionnel : Génie logiciel  
   Nantes - France  
@@ -10,9 +10,9 @@
   Spécialité : Jeux Vidéos  
   Chicoutimi - Québec  
   Aout 2022 - Juillet 2023  
-####
+
 <hr>
-### :briefcase: Mon Github : 
+<h3> :briefcase: Mon Github : </h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true"/>
@@ -24,9 +24,8 @@
   </a>
 </p>
 
-####
 <hr>
-### :computer: Mes langages de programmation
+<h3> :computer: Mes langages de programmation : </h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -49,9 +48,9 @@
   </a>
 </p>
 
-####
+
 <hr>
-### :wrench: Outils  
+<h3> :wrench: Outils : </h3>
 <p align="center">
   <a href="https://getbootstrap.com">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -70,9 +69,9 @@
   </a>
 </p>
 
-####
+
 <hr>
-### :minidisc: Système d'exploitation
+<h3> :minidisc: Système d'exploitation : </h3>
 <p align="center">
   <a href="https://debian.com">
     <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
