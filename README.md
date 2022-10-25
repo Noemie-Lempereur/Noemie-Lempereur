@@ -12,10 +12,14 @@
 ####
 ### :briefcase: Mon Github : 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true"/>
+</a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&layout=compact&theme=github_dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&layout=compact&theme=github_dark&count_private=true"/>
+</a>
 </p>
 
 ####
