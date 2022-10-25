@@ -59,10 +59,13 @@
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
   <a href="https://www.jetbrains.com">
-    <img align="center" src="https://shields.io/static/v1?label=&message=JetBrains&color=yellow&style=for-the-badge&logo=JetBrains"/>
+    <img align="center" src="https://shields.io/static/v1?label=&message=JetBrains&color=blueviolet&style=for-the-badge&logo=JetBrains"/>
   </a>
   <a href="https://www.postgresql.org">
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://unity.com">
+    <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
   <a href="https://code.visualstudio.com">
     <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
