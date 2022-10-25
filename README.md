@@ -52,12 +52,30 @@
 ####
 <hr>
 ### :wrench: Outils  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![jetbrains](https://shields.io/static/v1?label=&message=JetBrains&color=yellow&style=for-the-badge&logo=JetBrains)](https://www.jetbrains.com/) [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+<p align="center">
+  <a href="https://getbootstrap.com">
+    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://www.jetbrains.com">
+    <img align="center" src="https://shields.io/static/v1?label=&message=JetBrains&color=yellow&style=for-the-badge&logo=JetBrains"/>
+  </a>
+  <a href="https://www.postgresql.org">
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
+</p>
+
+ [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ####
 <hr>
-### :minidisc: Système d'exploitations
+### :minidisc: Système d'exploitation
 <p align="center">
   <a href="https://debian.com">
     <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
