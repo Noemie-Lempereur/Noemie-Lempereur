@@ -2,14 +2,14 @@
 
 <hr>
 <h3> :mortar_board: Mes études : </h3>
-- Etudiante en école d'ingénieur à l'ISEN (Institut supérieur de l'électronique et du numérique)  
-  Domaine Professionnel : Génie logiciel  
-  Nantes - France  
-  Septembre 2019 - Septembre 2024
-- Etudiante en double diplome Maitrise en informatique à l'UQAC (Université du Québec à Chicoutimi)  
-  Spécialité : Jeux Vidéos  
-  Chicoutimi - Québec  
-  Aout 2022 - Juillet 2023  
+- Etudiante en école d'ingénieur à l'ISEN (Institut supérieur de l'électronique et du numérique)<br>  
+&nbsp&nbsp Domaine Professionnel : Génie logiciel  <br>
+&nbsp&nbsp Nantes - France  <br>
+&nbsp&nbsp Septembre 2019 - Septembre 2024 <br>
+- Etudiante en double diplome Maitrise en informatique à l'UQAC (Université du Québec à Chicoutimi)   <br>
+&nbsp&nbsp Spécialité : Jeux Vidéos   <br>
+&nbsp&nbsp Chicoutimi - Québec   <br>
+&nbsp&nbsp Aout 2022 - Juillet 2023  
 
 <hr>
 <h3> :briefcase: Mon Github : </h3>
