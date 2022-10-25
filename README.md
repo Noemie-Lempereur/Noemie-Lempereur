@@ -37,6 +37,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
   <a href="https://javascript.com">
     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
@@ -99,6 +102,9 @@
   <a href="https://unity.com">
     <img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -144,6 +150,25 @@
   </a>
  </p>
 
+<hr>
+<h3> 🗄️ Server : </h3>
+<p align="center">
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+  </a>
+</p>
+
+<hr>
+<h3> :page_facing_up: Office : </h3>
+<p align="center">
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  </a>
+</p>
+
 
 <hr>
 <h3> :minidisc: Système d'exploitation : </h3>
@@ -154,7 +179,34 @@
   <a href="https://windows.com">
     <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>
- </p>
+  <hr>
+</p>
+  
+<hr>  
+<h3> :minidisc: Other : </h3>
+<p align="center">
+  <a href="https://www.raspberrypi.com">
+    <img align="center" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  </a>
+  <a href="https://trello.com/">
+    <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  </a>
+</p>
+
+
+<hr>  
+<h3> 💬 Social : </h3>
+<p align="center">
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 
