@@ -109,7 +109,7 @@
 
 
 <hr>
-<h3> :desktop_computer: IDE : </h3>
+<h3> :desktop_computer: IDEs : </h3>
 <p align="center">
   <a href="https://developer.android.com">
     <img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -171,7 +171,7 @@
 
 
 <hr>
-<h3> :minidisc: Système d'exploitation : </h3>
+<h3> 🎛️ Operating System : </h3>
 <p align="center">
   <a href="https://debian.com">
     <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
@@ -183,13 +183,16 @@
 </p>
   
 <hr>  
-<h3> :minidisc: Other : </h3>
+<h3> 🥅 Other : </h3>
 <p align="center">
   <a href="https://www.raspberrypi.com">
     <img align="center" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   </a>
   <a href="https://trello.com/">
     <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  </a>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   </a>
 </p>
 
