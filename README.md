@@ -73,20 +73,9 @@
   <a href="https://getbootstrap.com">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/">
-    <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  </a>
-  <a href="https://nodejs.org">
-    <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  </a>
   <a href="https://www.qt.io/">
     <img align="center" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
   </a>
-  <a href="https://fr.reactjs.org/">
-    <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
-  
-  
  </p>
 
 
@@ -111,26 +100,17 @@
 <hr>
 <h3> :desktop_computer: IDEs : </h3>
 <p align="center">
-  <a href="https://developer.android.com">
-    <img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  </a>
   <a href="https://www.jetbrains.com/clion/">
     <img align="center" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/>
   </a>
   <a href="https://www.jetbrains.com/idea/">
     <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   </a>
-  <a href="https://www.jetbrains.com/fr-fr/phpstorm/">
-    <img align="center" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
-  </a>
   <a href="https://www.jetbrains.com/pycharm/">
     <img align="center" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   </a>
   <a href="https://code.visualstudio.com">
     <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com">
-    <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   </a>
 </p>
 
@@ -178,20 +158,6 @@
   </a>
   <a href="https://windows.com">
     <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </a>
-</p>
-  
-<hr>  
-<h3> 🥅 Other : </h3>
-<p align="center">
-  <a href="https://www.raspberrypi.com">
-    <img align="center" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-  </a>
-  <a href="https://trello.com/">
-    <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-  </a>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   </a>
 </p>
 
