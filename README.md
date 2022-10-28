@@ -3,7 +3,7 @@
 <hr>
 <h3> :mortar_board: My studies : </h3>
 - Student in engineering school at ISEN (Institut supérieur de l'électronique et du numérique)<br>  
-&nbsp&nbsp Professional Field : Software Engineering<br>
+&nbsp&nbsp Speciality : Software Engineering<br>
 &nbsp&nbsp Nantes - France  <br>
 &nbsp&nbsp September 2019 - September 2024 <br><br>
 - Double degree student in Computer Science at UQAC (Université du Québec à Chicoutimi)   <br>
