@@ -22,7 +22,7 @@
 <h3> :briefcase: Github : </h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true&hide=makefile"/>
   </a>
 </p>
 <p align="center">
