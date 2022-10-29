@@ -1,5 +1,12 @@
 <h1>Noémie LEMPEREUR</h1>
 
+  <a href="https://www.linkedin.com/in/no%C3%A9mie-lempereur-990428225/">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ <a href="mailto://lempereur.noemie@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 <hr>
 <h3> :mortar_board: My studies : </h3>
 - Student in engineering school at ISEN (Institut supérieur de l'électronique et du numérique)<br>  
@@ -10,18 +17,6 @@
 &nbsp&nbsp Speciality : Video Games   <br>
 &nbsp&nbsp Chicoutimi - Québec - Canada  <br>
 &nbsp&nbsp August 2022 - July 2023
-
-<hr>  
-<h3> 💬 Social : </h3>
-<p align="center">
-  <a href="mailto://lempereur.noemie@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/no%C3%A9mie-lempereur-990428225/">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 
 <hr>
 <h3> :briefcase: Github : </h3>
