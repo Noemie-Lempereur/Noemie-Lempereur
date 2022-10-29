@@ -22,12 +22,12 @@
 <h3> :briefcase: Github : </h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true&hide=makefile"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Noemie-Lempereur&show_icons=true&theme=github_dark&count_private=true"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&langs_count=12&layout=compact&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&langs_count=12&layout=compact&theme=github_dark&hide=makefile"/>
   </a>
 </p>
 
