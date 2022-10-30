@@ -8,13 +8,21 @@
   </a>
 
 <hr>
-<h3> :mortar_board: My studies : </h3>
-- Student in engineering school at ISEN (Institut supérieur de l'électronique et du numérique)<br>  
+<h3> :mortar_board: Education : </h3>
+- Currently in my fourth year in engineering school ISEN (Institut supérieur de l'électronique et du numérique)<br>  
 &nbsp&nbsp Speciality : Software Engineering<br>
 &nbsp&nbsp Nantes - France  <br>
 &nbsp&nbsp September 2019 - September 2024 <br><br>
-- Double degree student in Computer Science at UQAC (Université du Québec à Chicoutimi)   <br>
+- Double degree in Computer Science at UQAC (Université du Québec à Chicoutimi)   <br>
 &nbsp&nbsp Speciality : Video Games   <br>
+&nbsp&nbsp The courses include the following : <br>
+<ul>
+   <li>8INF851 - Génie Logiciel</li>
+   <li>8INF862 - Gestion de projets informatiques</li>
+  <li>8INF957 - Programmation objet avancée</li>
+  <li>8INF960 - Principes de conception et de développement de jeux vidéo</li>
+  <li>CICS900P - Compétences informationnelles aux cycles supérieurs</li>
+</ul>
 &nbsp&nbsp Chicoutimi - Québec - Canada  <br>
 &nbsp&nbsp August 2022 - July 2023
 
