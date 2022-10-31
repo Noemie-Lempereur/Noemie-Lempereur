@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&langs_count=12&layout=compact&theme=github_dark&hide=makefile,cmake&count_private=true&isFork=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemie-Lempereur&langs_count=10&layout=compact&theme=github_dark&hide=makefile,cmake&count_private=true"/>
   </a>
 </p>
 
