@@ -22,9 +22,9 @@
   <li>8INF957 - Programmation objet avancée</li>
   <li>8INF960 - Principes de conception et de développement de jeux vidéo</li>
   <li>CICS900P - Compétences informationnelles aux cycles supérieurs</li>
+  Chicoutimi - Québec - Canada  <br>
+  August 2022 - July 2023
 </ul>
-&nbsp&nbsp Chicoutimi - Québec - Canada  <br>
-&nbsp&nbsp August 2022 - July 2023
 
 <hr>
 <h3> :briefcase: Github : </h3>
