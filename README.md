@@ -39,6 +39,22 @@
   </a>
   <br>I also use C# but only in private and fork repositories
 </p>
+<hr>
+<h3> :briefcase: Main projects : </h3>
+<p align="center">
+  <a href="https://github.com/Noemie-Lempereur/Projet-Genie-logiciel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-Genie-logiciel"/>
+  </a>
+  <a href="https://github.com/Noemie-Lempereur/Projet-site-de-covoiturage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-site-de-covoiturage"/>
+  </a>
+  <a href="https://github.com/Noemie-Lempereur/Projet-creation-rapport-meteo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-creation-rapport-meteo"/>
+  </a>
+  <a href="https://github.com/Noemie-Lempereur/Jeu-Turbo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Jeu-Turbo"/>
+  </a>
+</p>
 
 <hr>
 <h3> :computer: Programming languages : </h3>
