@@ -43,16 +43,16 @@
 <h3> :briefcase: Main projects : </h3>
 <p align="center">
   <a href="https://github.com/Noemie-Lempereur/Projet-Genie-logiciel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-Genie-logiciel"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-Genie-logiciel&layout=compact&theme=github_dark"/>
   </a>
   <a href="https://github.com/Noemie-Lempereur/Projet-site-de-covoiturage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-site-de-covoiturage"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-site-de-covoiturage&layout=compact&theme=github_dark"/>
   </a>
   <a href="https://github.com/Noemie-Lempereur/Projet-creation-rapport-meteo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-creation-rapport-meteo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Projet-creation-rapport-meteo&layout=compact&theme=github_dark"/>
   </a>
   <a href="https://github.com/Noemie-Lempereur/Jeu-Turbo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Jeu-Turbo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Jeu-Turbo&layout=compact&theme=github_dark"/>
   </a>
 </p>
 
