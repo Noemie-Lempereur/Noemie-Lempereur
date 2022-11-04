@@ -171,18 +171,6 @@
 </p>
 
 <hr>
-<h3> :page_facing_up: Office : </h3>
-<p align="center">
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
-  </a>
-  <a href="">
-    <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  </a>
-</p>
-
-
-<hr>
 <h3> 🎛️ Operating System : </h3>
 <p align="center">
   <a href="https://debian.com">
