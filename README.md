@@ -54,6 +54,12 @@
   <a href="https://github.com/Noemie-Lempereur/Jeu-Turbo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Jeu-Turbo&layout=compact&theme=github_dark"/>
   </a>
+  <a href="https://github.com/Noemie-Lempereur/TP5_Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Jeu-Turbo&layout=compact&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/Noemie-Lempereur/TP6_Java_DemineurGraphique">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noemie-Lempereur&repo=Jeu-Turbo&layout=compact&theme=github_dark"/>
+  </a>
 </p>
 
 <hr>
