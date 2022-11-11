@@ -1,6 +1,6 @@
 <h1>Noémie LEMPEREUR</h1>
 
-  <a href="https://www.linkedin.com/in/no%C3%A9mie-lempereur-990428225/">
+  <a href="www.linkedin.com/in/noemie-lempereur">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  <a href="mailto://lempereur.noemie@gmail.com">
