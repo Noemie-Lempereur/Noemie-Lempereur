@@ -17,10 +17,14 @@
 &nbsp&nbsp Speciality : Video Games   <br>
 &nbsp&nbsp The courses include the following : <br>
 <ul>
-   <li>8INF851 - Génie Logiciel</li>
-   <li>8INF862 - Gestion de projets informatiques</li>
+  <li>8INF851 - Génie Logiciel</li>
+  <li>8INF862 - Gestion de projets informatiques</li>
   <li>8INF957 - Programmation objet avancée</li>
   <li>8INF960 - Principes de conception et de développement de jeux vidéo</li>
+  <li>8INF876 - Conception et architecture des systèmes d'infonuagique</li>
+  <li>8INF865 - Programmation de plateformes mobiles</li>
+  <li>8INF916 - Programmation réseau dans les jeux vidéo</li>
+  <li>8INF962 - Atelier pratique en jeux vidéo I</li>
   <li>CICS900P - Compétences informationnelles aux cycles supérieurs</li>
   Chicoutimi - Québec - Canada  <br>
   August 2022 - July 2023
